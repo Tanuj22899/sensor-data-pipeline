@@ -61,3 +61,5 @@ The pipeline automatically populates two core tables in the `sensor_db` PostgreS
 
 ### 1. Installation
 Clone the repository and install the required dependencies:
+then run monitor.py in src folder and also put dataset in data folder. Once monitor.py runs it scans dataset in `data\` and starts the ETL Pipeline.
+rest of results and information is present in docx document uploaded in repo.
